@@ -1,0 +1,12 @@
+﻿1. Open Terminal
+2. CD Folder Name
+3. Python FlightManagementSystem.py
+4. Enter Date
+5. Enter Destination ( Chennai - Mumbai, Chennai - Delhi ). We considered only 2 destinations
+6. Enter Seat No.
+7. Enter Meal preference
+8. Summary of booking will be displayed ( Extra charges for meal, 5% price up if seat <=5)
+9. Confirm your booking
+10. If not, Cancel option will come
+11. If cancelled, enter transaction id
+12. Booking Cancelled
